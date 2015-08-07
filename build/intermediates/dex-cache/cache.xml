@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HP\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-679a9fd518de9686ceecd52b592898085f1a6411.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-688e33676a46063a1fb7b924bb3f063d3e7be6b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-dea9aee1180f3a067c445fb163ded86961164aba.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Primitives-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7a8fad6e98f20464a41c102967d0cd5d64d2d734">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-c4a240c5e1415b5b8c7e13c45e754d18cca1a610.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-66263093137e2bb452dd2f5e52588e93b6bf5bfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Common-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a953c581a8d03841b572760c95dc0426a277f794">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-853a9efea68391e6c9a16729c5b6f34c47f7dbbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-1315d26d4016ffd6f382b1ea8f29b4b55c4b7634.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Data-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e73ee94d8636d8f3bddcff393f89e4ea9d59ebb9">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-5eb1ed9c4a8008f729cb7cb4d91643fe21fbece2.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\libs\Parse-1.9.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5811138d4e6cb9d45030e133ef1a61b935154c3a">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\Parse-1.9.0-d634b813a736f7fe26646c95387979bcbcd1d711.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-83050625381bbdc82f0de6b42f80ce9ffa95a2b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\List-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6475c3dfa4c1f019b4b434e918aa1aef857bafba">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-f16eaddaa8438dafc80517045ac81774613d50ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Input-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="74c4ac29bdd1e2f5d44a6f00f6470432f2874ca9">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-17bcdf0e0a2e69f73efaf32c33c0546ed97076b7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Feedback-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="12eae1364c6b4729251a403fd296eb052a7599c2">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-eaf3555c127006edf61e3e3e5e9564e1b197d113.jar" />
+    </item>
+    <item
+        jar="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\exploded-aar\Chart-2015.1.225-trial-release\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7b7102f53681ef11c0e8d2f64b4cdb00cda747d3">
+        <dex dex="C:\Users\HP\AndroidStudioProjects\calandarexample\app\build\intermediates\pre-dexed\debug\classes-1a901807b7fa23c2917e6a6bc1717c0c608ad1cb.jar" />
+    </item>
+
+</items>
